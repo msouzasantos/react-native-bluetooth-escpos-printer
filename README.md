@@ -2,11 +2,7 @@
 
 React-Native plugin for the bluetooth ESC/POS & TSC printers.
 
-Any questions or bug please raise a issue.
-
-##Still under developement
-
-#May support Android /IOS
+## Still under developement
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/januslo/react-native-bluetooth-escpos-printer/master/LICENSE) [![npm version](https://badge.fury.io/js/react-native-bluetooth-escpos-printer.svg)](https://www.npmjs.com/package/react-native-bluetooth-escpos-printer)
 
@@ -19,7 +15,7 @@ npm install react-native-bluetooth-escpos-printer --save
 
 Or install via github
 ```bash
-npm install https://github.com/januslo/react-native-bluetooth-escpos-printer.git --save
+npm install https://github.com/msouzasantos98/react-native-bluetooth-escpos-printer.git --save
 ```
 
 ### Step2 ###
